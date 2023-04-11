@@ -9,7 +9,7 @@ npm start
 ## Authentication
 login using admin as username and password
 
-##Features
+## Features
 1. Add a todo
 2. Edit a todo
 3. Delete a todo
